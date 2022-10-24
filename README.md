@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey There! I'm Marcello.
 
-<!--
-**marcellosabino/marcellosabino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page.  I'm a software engineer, runner, practical stoic, and small business owner.
 
-Here are some ideas to get you started:
+🕸 https://marcello.codes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=%230A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-sabino/) [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=%231DA1F2&logo=twitter&logoColor=white)](https://twitter.com/marcellocodes) [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=%23E4405F&logo=instagram&logoColor=white)](https://twitter.com/marcellocodes) [![Contact Me](https://img.shields.io/static/v1?label=&message=Contact+Me&color=%23005FF9&logo=mail.ru&logoColor=white)](mailto:hey@marcello.codes)
+
+### Stuff I code with
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=gray) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![NextJS](https://img.shields.io/static/v1?label=&message=NextJS&color=%23000000&logo=next.JS&logoColor=white) ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=%233178C6&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=gray) ![Spring](https://img.shields.io/static/v1?label=&message=Spring&color=%236DB33F&logo=spring&logoColor=white) ![Python](https://img.shields.io/static/v1?label=&message=Python&color=%233776AB&logo=python&logoColor=white) ![Ruby on Rails](https://img.shields.io/static/v1?label=&message=Ruby+on+Rails&color=%23CC0000&logo=ruby+on+rails&logoColor=white) ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=%234169E1&logo=PostgreSQL&logoColor=white) ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=%234479A1&logo=MySQL&logoColor=white) ![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=%23C21325&logo=jest&logoColor=white) ![JUnit](https://img.shields.io/static/v1?label=&message=JUnit&color=%2325A162&logo=junit5&logoColor=white) ![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=%2317202C&logo=cypress&logoColor=white) ![IntelliJ](https://img.shields.io/static/v1?label=&message=IntelliJ&color=%23000000&logo=intellij+idea&logoColor=white) ![VS Code](https://img.shields.io/static/v1?label=&message=VS+Code&color=%23007ACC&logo=visual+studio+code&logoColor=white) ![Git](https://img.shields.io/static/v1?label=&message=Git&color=%23F05032&logo=git&logoColor=white) ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=%23181717&logo=github&logoColor=white) ![Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind+CSS&color=%2306B6D4&logo=tailwind+css&logoColor=white) ![BootStrap](https://img.shields.io/static/v1?label=&message=BootStrap&color=%237952B3&logo=bootstrap&logoColor=white) 
+      
+### Stuff I've built
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Fun Banking](https://fun-banking.com) | A banking simulator, intended to teach students critical banking knowledge. | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=gray) ![NextJS](https://img.shields.io/static/v1?label=&message=NextJS&color=%23000000&logo=next.JS&logoColor=white) ![Ruby on Rails](https://img.shields.io/static/v1?label=&message=Ruby+on+Rails&color=%23CC0000&logo=ruby+on+rails&logoColor=white) ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=%234169E1&logo=PostgreSQL&logoColor=white)|
+| [Marcello Codes](https://marcello.codes) | My personal website/blog built from scratch using NextJS | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=gray) ![NextJS](https://img.shields.io/static/v1?label=&message=NextJS&color=%23000000&logo=next.JS&logoColor=white) |
+| [cypress-hover](https://github.com/marcellosabino/cypress-hover) | A package that helps you hover over elements in Cypress. Available on NPM | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=gray) ![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=%2317202C&logo=cypress&logoColor=white) |
