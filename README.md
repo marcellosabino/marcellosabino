@@ -5,8 +5,8 @@
 Welcome to my GitHub page.  I'm a software engineer, runner, practical stoic, and small business owner.
       
 ### Personal Projects
-| Project | Description | Technologies |
-| --- | --- | --- |
-| [Fun Banking](https://fun-banking.com) | A banking simulator, intended to teach students critical banking knowledge. | ![Ruby on Rails](https://img.shields.io/static/v1?label=&message=Ruby+on+Rails&color=%23CC0000&logo=ruby+on+rails&logoColor=white) ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=%234169E1&logo=PostgreSQL&logoColor=white) |
-| [Marcello Codes](https://marcello.codes) | My personal website/blog built from scratch using NextJS | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=gray) ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=%233178C6&logo=typescript&logoColor=white) |
-| [cypress-hover](https://github.com/marcellosabino/cypress-hover) | A package that helps you hover over elements in Cypress. Available on NPM | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=gray) ![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=%2317202C&logo=cypress&logoColor=white) |
+| Name | Description |
+| --- | --- |
+| [Fun Banking](https://fun-banking.com) | A banking simulator, intended to teach students critical banking knowledge. |
+| [Marcello Codes](https://marcello.codes) | My personal website/blog built from scratch using NextJS |
+| [cypress-hover](https://github.com/marcellosabino/cypress-hover) | A package that helps you hover over elements in Cypress. Available on NPM |
