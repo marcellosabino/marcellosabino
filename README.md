@@ -4,9 +4,3 @@
 
 Welcome to my GitHub page.  I'm a software engineer, runner, practical stoic, and small business owner.
       
-### Personal Projects
-| Name | Description |
-| --- | --- |
-| [Fun Banking](https://fun-banking.com) | A banking simulator, intended to teach students critical banking knowledge. |
-| [Marcello Codes](https://marcello.codes) | My personal website/blog built from scratch using NextJS |
-| [cypress-hover](https://github.com/marcellosabino/cypress-hover) | A package that helps you hover over elements in Cypress. Available on NPM |
