@@ -1,5 +1,5 @@
 # Hey there! 👋🏻
-I'm Marcello, a software engineer, runner, brewery enthusiast, and practical stoic.
+I'm Marcello (or March), a software engineer, runner, brewery enthusiast, and practical stoic.
 
 * 📖 I'm currently reading **The Pragmatic Programmer**
 * 🌱 I'm currently learning [Go](go.dev)
