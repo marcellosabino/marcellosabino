@@ -4,7 +4,7 @@ I'm Marcello (or March), a software engineer, runner, brewery enthusiast, and pr
 * 📖 I'm currently reading **Domain Driven Design**
 * 🌱 I'm currently learning [Go](https://go.dev)
 * ✋ Ask me about running, engineering, or philosophy
-* ✍️ You can reach me at [hey@bytebury.com](mailto:hey@bytebury.com)
+* ✍️ You can reach me at [marcello@bytebury.com](mailto:marcello@bytebury.com)
 
 ## I am Running 169
 I am working towards completion of the Run169Towns challenge, a challenge where you run a race in every town in Connecticut.
